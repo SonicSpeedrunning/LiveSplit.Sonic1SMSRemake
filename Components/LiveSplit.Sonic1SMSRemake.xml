@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+	<update version="1.0.1.1">
+		<files>
+			<file path="Components/LiveSplit.Sonic1SMSRemake.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Fixed small oversight with the default splitting settings</change>
+		</changelog>
+	</update>
 	<update version="1.0.1">
 		<files>
 			<file path="Components/LiveSplit.Sonic1SMSRemake.dll" status="changed"/>
